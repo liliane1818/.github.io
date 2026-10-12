@@ -3449,3 +3449,7 @@ input[type="button"]:disabled,
     padding: 0;
   }
 }
+.description {
+  font-size: 0.8em;
+  line-height: 1.5;
+}
