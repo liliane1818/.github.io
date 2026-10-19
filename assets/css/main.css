@@ -3296,7 +3296,7 @@ input[type="button"]:disabled,
   }
 
   header.major h2 + p {
-    font-size: 1.5em;
+    font-size: 1em;
   }
 
   /* Features */
@@ -3458,4 +3458,7 @@ input[type="button"]:disabled,
 .description {
   font-size: 0.8em;
   line-height: 1.5;
+}
+#one header.major p {
+  font-size: 21px !important;
 }
